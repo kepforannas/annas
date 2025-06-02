@@ -11,7 +11,7 @@
     "whiskeysockets",
     "multi-device"
   ],
-  "author": "ZcoderX",
+  "author": "Annas",
   "license": "MIT",
   "engines": {
     "node": ">=18.0.0 <=25.x"
