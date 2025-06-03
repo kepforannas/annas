@@ -2,8 +2,8 @@
   "name": "annas",
   "version": "1.0.0",
   "description": "up",
-  "main": "./start/index.js"
-  "type": "commonjjs",
+  "main": "./start/index.js",
+  "type": "commonjs",
   "engines": {
     "node": ">=18 <=25"
   },
